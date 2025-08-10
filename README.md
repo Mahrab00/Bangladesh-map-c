@@ -8,7 +8,7 @@ This project is designed as a well-commented example of using a simple decompres
 
 ## Final Output Screenshot
 
-![Bangladesh ASCII Map Output](https://imgur.com/a/IiXpWmg)
+![Bangladesh ASCII Map Output](https://i.imgur.com/IiXpWmg.png)
 
 ---
 
