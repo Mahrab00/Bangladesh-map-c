@@ -8,7 +8,7 @@ This project is designed as a well-commented example of using a simple decompres
 
 ## Final Output Screenshot
 
-![Bangladesh ASCII Map Output](https://i.imgur.com/OTllitm.png)
+![Bangladesh ASCII Map Output](https://imgur.com/a/IiXpWmg)
 
 ---
 
@@ -21,16 +21,4 @@ This program is written in standard C (C99/C11) and can be compiled with any mod
 Open a terminal or command prompt and run the following command to compile the code:
 
 ```sh
-Enter country name: Bangladesh 
-
-
-About the Code
-The core of this program is the generateMapFromCompressedData function. Instead of storing the map as a large visual block of text, it is stored as a highly compressed string of data.
-
-For example, the code 19s1a1n means:
-19s: Print 19 spaces ('s').
-1a: Print 1 asterisk ('a').
-1n: Print 1 new line ('n')
-
-
 gcc main.c -o map_generator
